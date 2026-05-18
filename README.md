@@ -1,6 +1,6 @@
 # Olá, eu sou a Rachel Tolentino de Sena! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de [Tecnologia/Tópico]
+### Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Tecnologia
 
 Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, lógica e tudo que a era digital tem a oferecer. Atualmente, estou focado(a) em aprimorar minhas habilidades em linguagens como Java, HTML, CSS E JS.
 
@@ -13,4 +13,4 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, lógica e tudo que a er
 
 ### 🌱 Atualmente Aprendendo
 
-Estou sempre buscando expandir meus conhecimentos! No momento, estou explorando [nova tecnologia/conceito, ex: WebAssembly, Machine Learning com TensorFlow, arquitetura de microsserviços].
+Estou sempre buscando expandir meus conhecimentos! No momento, estou me aprofundando em Java, HTML, CSS E JS.
