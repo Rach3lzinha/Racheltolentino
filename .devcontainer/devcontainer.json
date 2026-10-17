@@ -1,1 +1,18 @@
-
+{
+  "name": "Pokedex com Docker",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest",
+      "moby": true
+    }
+  },
+  "runArgs": [
+    "--privileged"
+  ],
+  "forwardPorts": [
+    8080,
+    8081
+  ],
+  "postCreateCommand": "docker --version"
+}
